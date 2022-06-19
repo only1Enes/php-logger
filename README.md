@@ -1,1 +1,1 @@
-PHP Basic Logger System
+Translator class for based PHP (>= 7.2) systems.
