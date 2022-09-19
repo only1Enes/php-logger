@@ -8,7 +8,6 @@
  *  PHP Logger with MySQL
 **/
 
-
 class Logger {
 
     private $entry;
